@@ -26,6 +26,61 @@ body {
   text-align: center;
 }
 
+.entourage {
+  text-align: center;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #6e7c94;
+  font-family: "Sacramento", Arial, serif;
+  font-size: 60px;
+}
+
+.characterRole {
+  color: #6e7c94;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.groomandbride {
+  padding: 0;
+  margin: 0;
+}
+
+.iRole {
+  color: #6e7c94;
+  padding-bottom: 8%;
+  padding-top: 8%;
+  margin: 0;
+}
+
+.bgname {
+  margin: 0;
+  padding: 3px 0;
+}
+
+.name {
+  font-size: 18px;  
+}
+
+.groomsmenSec {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.othersEntourage {
+  margin-top: 10%;
+}
+
+.otherCharactersLists {
+  text-align: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -1029,61 +1084,6 @@ form label {
 
 .weddingEntourage {
   text-align: center;
-  padding: 0;
-  margin: 0;
-}
-
-.entourage {
-  text-align: center;
-  margin-bottom: 10px;
-  line-height: 1.5;
-  font-weight: bold;
-  color: #6e7c94;
-  font-family: "Sacramento", Arial, serif;
-  font-size: 60px;
-}
-
-.characterRole {
-  color: #6e7c94;
-  margin-top: 1%;
-  margin-bottom: 1%;
-}
-
-.groomandbride {
-  padding: 0;
-  margin: 0;
-}
-
-.iRole {
-  color: #6e7c94;
-  padding-bottom: 8%;
-  padding-top: 8%;
-  margin: 0;
-}
-
-.bgname {
-  margin: 0;
-  padding: 3px 0;
-}
-
-.name {
-  font-size: 18px;  
-}
-
-.groomsmenSec {
-  list-style-type: none;
-  text-align: center;
-  padding: 0;
-  margin: 0;
-}
-
-.othersEntourage {
-  margin-top: 10%;
-}
-
-.otherCharactersLists {
-  text-align: center;
-  list-style-type: none;
   padding: 0;
   margin: 0;
 }
